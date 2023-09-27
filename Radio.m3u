@@ -1,222 +1,248 @@
  
 #EXTM3U
-#EXTINF:-1,NDR 1 - Welle Nord,audio/mpeg
+#EXTINF:-1,NDR 1 - Welle Nord
 http://icecast.ndr.de/ndr/ndr1wellenord/flensburg/mp3/128/stream.mp3
-#EXTINF:-1,Nostalgie Extra - Relax,audio/mpeg
+#EXTINF:-1,Nostalgie Extra - Relax
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFRELAX.mp3
-#EXTINF:-1,1940s Radio,audio/mpeg
+#EXTINF:-1,1940s Radio
 http://199.189.111.28:8012/;
-#EXTINF:-1,COUNTRYMUSIC24,audio/mpeg
+#EXTINF:-1,COUNTRYMUSIC24
 http://countrymusic24.powerstream.de:9000/;
-#EXTINF:-1,STAR*SAT RADIO,audio/mpeg
+#EXTINF:-1,STAR*SAT RADIO
 http://mp3ad.radiob2starsat.c.nmdn.net/radiob2starsat_mobile/livestream.aac
-#EXTINF:-1,NDR 2,audio/mpeg
+#EXTINF:-1,NDR 2
 http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3
-#EXTINF:-1,NDR Info,audio/mpeg
+#EXTINF:-1,NDR Info
 http://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3
-#EXTINF:-1,NDR Blue,audio/mpeg
+#EXTINF:-1,NDR Blue
 http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
-#EXTINF:-1,NDR Kultur,audio/mpeg
+#EXTINF:-1,NDR Kultur
 http://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
-#EXTINF:-1,NDR Kultur Neo,audio/mpeg
+#EXTINF:-1,NDR Kultur Neo
 http://icecast.ndr.de/ndr/loop/24/mp3/128/stream.mp3
-#EXTINF:-1,Nostalgie,audio/mpeg
-http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3
-#EXTINF:-1,Nostalgie - Chansons Francaises,audio/mpeg
-https://scdn.nrjaudio.fm/fr/30611/mp3_128.mp3?cdn_path=adswizz_lbs11&adws_out_a1&access_token=33fc441f90594d718a3f221eab3cecf6
-#EXTINF:-1,Nostalgie - Blues,audio/mpeg
-https://scdn.nrjaudio.fm/fr/30639/mp3_128.mp3?cdn_path=adswizz_lbs11&adws_out_a3&access_token=becba73df5b341a8b884c28e8cf17b4d
-#EXTINF:-1,Nostalgie - Funk,audio/mpeg
-https://scdn.nrjaudio.fm/fr/30607/mp3_128.mp3?cdn_path=adswizz_lbs11&adws_out_a1&access_token=e99783f19e534a608e765f2fe6f254a9
-#EXTINF:-1,Nostalgie - Soul,audio/mpeg
-https://scdn.nrjaudio.fm/fr/56953/mp3_128.mp3?cdn_path=adswizz_lbs9&adws_out_a3&access_token=7a0ecb7754d04d3a952533913765fb30
-#EXTINF:-1,Nostalgie - Route 66,audio/mpeg
-https://scdn.nrjaudio.fm/fr/56040/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b3&access_token=545fed383e7848a79a5c6ef7f3f30d53
-#EXTINF:-1,Nostalgie - Poetes,audio/mpeg
-https://scdn.nrjaudio.fm/fr/30619/mp3_128.mp3?cdn_path=adswizz_lbs12&adws_out_b3&access_token=0f5fb456044a4f06aaf2ed1e9ecc1a91
-#EXTINF:-1,Nostalgie - Rock,audio/mpeg
-https://scdn.nrjaudio.fm/fr/30621/mp3_128.mp3?cdn_path=adswizz_lbs11&adws_out_a1&access_token=3bc62ff161c64f0fae6bc49f324f22b4
-#EXTINF:-1,Nostalgie - Best Of 60s,audio/mpeg
-https://scdn.nrjaudio.fm/fr/30615/mp3_128.mp3?cdn_path=adswizz_lbs9&adws_out_a1&access_token=21d1937d2b724c94aefafa37d8bb990d
-#EXTINF:-1,Nostalgie - Best Of 70s,audio/mpeg
-https://scdn.nrjaudio.fm/fr/30613/mp3_128.mp3?cdn_path=adswizz_lbs11&adws_out_a1&access_token=146b8e46239a4983b98b6607381f7fe9
-#EXTINF:-1,Nostalgie - Best Of 80s,audio/mpeg
-https://scdn.nrjaudio.fm/fr/30605/mp3_128.mp3?cdn_path=adswizz_lbs10&adws_out_b2&access_token=519656c6fa814c7cb73f143d54842470
-#EXTINF:-1,Nostalgie - Best Of 90s,audio/mpeg
-https://scdn.nrjaudio.fm/fr/55206/mp3_128.mp3?cdn_path=adswizz_lbs12&adws_out_b2&access_token=3ca15ce00a5143438a646e17e0907524
-#EXTINF:-1,Nostalgie - USA 80s,audio/mpeg
-https://scdn.nrjaudio.fm/fr/56621/mp3_128.mp3?cdn_path=adswizz_lbs12&adws_out_b1&access_token=5a47264872974138862bbb0187bab631
-#EXTINF:-1,Nostalgie - Disco Fever,audio/mpeg
-https://scdn.nrjaudio.fm/fr/30617/mp3_128.mp3?cdn_path=adswizz_lbs7&adws_out_a1&access_token=23549788beea4c34a4c13b2f2abfeea5
-#EXTINF:-1,Nostalgie - Les Plus Grands Slows,audio/mpeg
-https://scdn.nrjaudio.fm/fr/30609/mp3_128.mp3?cdn_path=adswizz_lbs9&adws_out_a1&access_token=f29ac3d9724d41b6aa8009cb2af169c5
-#EXTINF:-1,Nostalgie - 100 Plus Grandes Chansons,audio/mpeg
-https://scdn.nrjaudio.fm/fr/30627/mp3_128.mp3?cdn_path=adswizz_lbs11&adws_out_a1&access_token=e122a70fd39c489688d1f32b9846e63c
-#EXTINF:-1,The UK 1940s Radio Station,audio/mpeg
+#EXTINF:-1,Nostalgie
+https://scdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Jazz
+https://scdn.nrjaudio.fm/adwz1/fr/30641/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Blues
+https://scdn.nrjaudio.fm/adwz1/fr/30639/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Dance
+https://scdn.nrjaudio.fm/adwz1/fr/57289/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Funk
+https://scdn.nrjaudio.fm/adwz1/fr/30607/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Soul
+https://scdn.nrjaudio.fm/adwz1/fr/56953/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Route 66
+https://scdn.nrjaudio.fm/adwz1/fr/56040/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Disco
+https://scdn.nrjaudio.fm/adwz1/fr/30617/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Rock
+https://scdn.nrjaudio.fm/adwz1/fr/30621/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Best of 60s
+https://scdn.nrjaudio.fm/adwz1/fr/30615/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Best of 70s
+https://scdn.nrjaudio.fm/adwz1/fr/30613/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Best of 80s
+https://scdn.nrjaudio.fm/adwz1/fr/30605/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Best of 80s 90s
+https://scdn.nrjaudio.fm/adwz1/fr/57831/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Best of 90s
+https://scdn.nrjaudio.fm/adwz1/fr/55206/mp3_128.mp3
+#EXTINF:-1,Nostalgie - 80s Top
+https://scdn.nrjaudio.fm/adwz1/fr/58537/mp3_128.mp3
+#EXTINF:-1,Nostalgie - 80s Plus
+https://scdn.nrjaudio.fm/adwz1/fr/58231/mp3_128.mp3
+#EXTINF:-1,Nostalgie - 80s Pop
+https://scdn.nrjaudio.fm/adwz1/fr/58056/mp3_128.mp3
+#EXTINF:-1,Nostalgie - 80s Party
+https://scdn.nrjaudio.fm/adwz1/fr/57237/mp3_128.mp3
+#EXTINF:-1,Nostalgie - 80s Rock
+https://scdn.nrjaudio.fm/adwz1/fr/56718/mp3_128.mp3
+#EXTINF:-1,Nostalgie - 80s Slow
+https://scdn.nrjaudio.fm/adwz1/fr/58004/mp3_128.mp3
+#EXTINF:-1,Nostalgie - 80s USA
+https://scdn.nrjaudio.fm/adwz1/fr/56621/mp3_128.mp3
+#EXTINF:-1,Nostalgie - 90s Rock
+https://scdn.nrjaudio.fm/adwz1/fr/57308/mp3_128.mp3
+#EXTINF:-1,Nostalgie - 90s Dance Party
+https://scdn.nrjaudio.fm/adwz1/fr/55205/mp3_128.mp3
+#EXTINF:-1,Nostalgie - 1000 Tubes
+https://scdn.nrjaudio.fm/adwz1/fr/58573/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Beach Party
+https://scdn.nrjaudio.fm/adwz1/fr/57258/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Italo Disco
+https://scdn.nrjaudio.fm/adwz1/fr/58333/mp3_128.mp3
+#EXTINF:-1,Nostalgie - Plus Grand Tubes
+https://scdn.nrjaudio.fm/adwz1/fr/30627/mp3_128.mp3
+#EXTINF:-1,The UK 1940s Radio Station
 http://91.121.134.23:8100/mp3
-#EXTINF:-1,The UK 1940s Radio - British Home Front Radio,audio/mpeg
+#EXTINF:-1,The UK 1940s Radio - British Home Front Radio
 https://solid24.streamupsolutions.com/proxy/mmpplqiv?mp=/;type=mp3
-#EXTINF:-1,Radio Dismuke,audio/mpeg
+#EXTINF:-1,Radio Dismuke
 http://stream1.radiodismuke.com:8000/;
-#EXTINF:-1,Radio Riel -- Dieselpunk,audio/mpeg
+#EXTINF:-1,Radio Riel -- Dieselpunk
 http://streams.radioriel.org:8040/stream
-#EXTINF:-1,Memoryradio Radio 1,audio/mpeg
+#EXTINF:-1,Memoryradio Radio 1
 http://www.memoryradio.de:4000/;
-#EXTINF:-1,RTL Radio - Die Besten Hits aller Zeiten,audio/mpeg
+#EXTINF:-1,RTL Radio - Die Besten Hits aller Zeiten
 http://stream.rtlradio.de/rtl-de-beste-hits/mp3-128/surfmusikDE/
-#EXTINF:-1,Classic Country 1630,audio/mpeg
+#EXTINF:-1,Classic Country 1630
 http://198.105.216.204:8194/stream
-#EXTINF:-1,Countrykanalen Sweden,audio/mpeg
+#EXTINF:-1,Countrykanalen Sweden
 http://178.33.135.245:3326/;
-#EXTINF:-1,Country 108,audio/mpeg
+#EXTINF:-1,Country 108
 http://tuner.country108.com:80/;
-#EXTINF:-1,Jazz Radio Blues,audio/mpeg
+#EXTINF:-1,Jazz Radio Blues
 http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
-#EXTINF:-1,The 1920s Radio Network,audio/mpeg
+#EXTINF:-1,The 1920s Radio Network
 http://tess.fast-serv.com:8570
-#EXTINF:-1,Radio Caprice - Piano Blues Boogie-Woogie,audio/aac
+#EXTINF:-1,Radio Caprice - Piano Blues Boogie-Woogie
 http://79.111.14.76:8002/pianoblues
-#EXTINF:-1,Jazz Radio - Blues,audio/mpeg
+#EXTINF:-1,Jazz Radio - Blues
 http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
-#EXTINF:-1,NDR 1 Welle Nord,audio/mpeg
+#EXTINF:-1,NDR 1 Welle Nord
 http://icecast.ndr.de/ndr/ndr1wellenord/flensburg/mp3/128/stream.mp3
-#EXTINF:-1,NDR 2,audio/mpeg
+#EXTINF:-1,NDR 2
 http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3
-#EXTINF:-1,NDR Info,audio/mpeg
+#EXTINF:-1,NDR Info
 http://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3
-#EXTINF:-1,NDR Blue,audio/mpeg
+#EXTINF:-1,NDR Blue
 http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
-#EXTINF:-1,NDR Kultur,audio/mpeg
+#EXTINF:-1,NDR Kultur
 http://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
-#EXTINF:-1,NDR Kultur Neo,audio/mpeg
+#EXTINF:-1,NDR Kultur Neo
 http://icecast.ndr.de/ndr/loop/24/mp3/128/stream.mp3
-#EXTINF:-1,N-Joy,audio/mpeg
+#EXTINF:-1,N-Joy
 http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3
-#EXTINF:-1,NORA,audio/mpeg
+#EXTINF:-1,NORA
 http://streams.norawebstreams.de/nora-live/mp3-192/streams.norawebstreams.de/
-#EXTINF:-1,NORA - 80er,audio/mpeg
+#EXTINF:-1,NORA - 80er
 http://streams.norawebstreams.de/nora-80er/mp3-192/streams.norawebstreams.de/
-#EXTINF:-1,NORA - Oldie,audio/mpeg
+#EXTINF:-1,NORA - Oldie
 http://streams.norawebstreams.de/nora-oldies/mp3-192/streams.norawebstreams.de/
-#EXTINF:-1,NORA - Weihnachten,audio/mpeg
+#EXTINF:-1,NORA - Weihnachten
 http://streams.norawebstreams.de/nora-event01/mp3-192/streams.norawebstreams.de/
-#EXTINF:-1,NORA - Oldieparty,audio/mpeg
+#EXTINF:-1,NORA - Oldieparty
 http://streams.norawebstreams.de/oldieparty/mp3-192/streams.norawebstreams.de/
-#EXTINF:-1,Nostalgie Extra Relax,audio/mpeg
+#EXTINF:-1,Nostalgie Extra Relax
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFRELAX.mp3
-#EXTINF:-1,Nostalgie Extra Rock,audio/mpeg
+#EXTINF:-1,Nostalgie Extra Rock
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFROCKS.mp3
-#EXTINF:-1,Antenne Bayern,audio/mpeg
+#EXTINF:-1,Antenne Bayern
 http://stream.antenne.de/antenne/stream/mp3
-#EXTINF:-1,Antenne Bayern - Rock Antenne,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Rock Antenne
 http://mp3channels.webradio.rockantenne.de/rockantenne
-#EXTINF:-1,Antenne Bayern - 80er-Kulthits,audio/mpeg
+#EXTINF:-1,Antenne Bayern - 80er-Kulthits
 http://stream.antenne.de/80er-kulthits/stream/mp3
-#EXTINF:-1,Antenne Bayern - 90er-Hits,audio/mpeg
+#EXTINF:-1,Antenne Bayern - 90er-Hits
 http://stream.antenne.de/90er-hits/stream/mp3
-#EXTINF:-1,Antenne Bayern - Black Beatz,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Black Beatz
 http://stream.antenne.de/black-beatz/stream/mp3
-#EXTINF:-1,Antenne Bayern - Relax,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Relax
 http://stream.antenne.de/relax/stream/mp3
-#EXTINF:-1,Antenne Bayern - Lounge,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Lounge
 http://stream.antenne.de/lounge/stream/mp3
-#EXTINF:-1,Antenne Bayern - Chillout,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Chillout
 http://stream.antenne.de/chillout/stream/mp3
-#EXTINF:-1,Antenne Bayern - Coffee Music,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Coffee Music
 http://stream.antenne.de/coffee/stream/mp3
-#EXTINF:-1,Antenne Bayern - Classic Rock,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Classic Rock
 http://stream.antenne.de/classic-rock-live/stream/mp3
-#EXTINF:-1,Antenne Bayern - Fresh,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Fresh
 http://stream.antenne.de/fresh/stream/mp3
-#EXTINF:-1,Antenne Bayern - Hitmix,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Hitmix
 http://stream.antenne.de/hitmix/stream/mp3
-#EXTINF:-1,Antenne Bayern - Hits für Kids,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Hits für Kids
 http://stream.antenne.de/hits-fuer-kids/stream/mp3
-#EXTINF:-1,Antenne Bayern - Lovesongs,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Lovesongs
 http://stream.antenne.de/lovesongs/stream/mp3
-#EXTINF:-1,Antenne Bayern - Oldies but Goldies,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Oldies but Goldies
 http://stream.antenne.de/oldies-but-goldies/stream/mp3
-#EXTINF:-1,Antenne Bayern - Schlagersahne,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Schlagersahne
 http://stream.antenne.de/das-schlager-karussell/stream/mp3
-#EXTINF:-1,Antenne Bayern - Top 40,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Top 40
 http://stream.antenne.de/top-40/stream/mp3
-#EXTINF:-1,Antenne Bayern - Weihnachts-Hits,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Weihnachts-Hits
 http://stream.antenne.de/weihnachts-hits/stream/mp3
-#EXTINF:-1,Antenne Bayern - Workout,audio/mpeg
+#EXTINF:-1,Antenne Bayern - Workout
 http://stream.antenne.de/workout-hits/stream/mp3
-#EXTINF:-1,Radio Bob,audio/mpeg
+#EXTINF:-1,Radio Bob
 http://streams.radiobob.de/bob-shlive/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - Classic Rock,audio/mpeg
+#EXTINF:-1,Radio Bob - Classic Rock
 http://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer  
-#EXTINF:-1,Radio Bob - Alternative,audio/mpeg
+#EXTINF:-1,Radio Bob - Alternative
 http://streams.radiobob.de/bob-alternative/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - Harte Saite,audio/mpeg
+#EXTINF:-1,Radio Bob - Harte Saite
 http://streams.radiobob.de/bob-hartesaite/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - ACDC Collection,audio/mpeg
+#EXTINF:-1,Radio Bob - ACDC Collection
 http://streams.radiobob.de/bob-acdc/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - Deutsch Rock,audio/mpeg
+#EXTINF:-1,Radio Bob - Deutsch Rock
 http://streams.radiobob.de/bob-deutsch/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - Wacken Nonstop,audio/mpeg
+#EXTINF:-1,Radio Bob - Wacken Nonstop
 http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - Rock Hits,audio/mpeg
+#EXTINF:-1,Radio Bob - Rock Hits
 http://streams.radiobob.de/bob-rockhits/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - Best of Rock,audio/mpeg
+#EXTINF:-1,Radio Bob - Best of Rock
 http://streams.radiobob.de/bob-bestofrock/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - 80er Rock,audio/mpeg
+#EXTINF:-1,Radio Bob - 80er Rock
 http://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - 90er Rock,audio/mpeg
+#EXTINF:-1,Radio Bob - 90er Rock
 http://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - Metal,audio/mpeg
+#EXTINF:-1,Radio Bob - Metal
 http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - Singer and Songwriter,audio/mpeg
+#EXTINF:-1,Radio Bob - Singer and Songwriter
 http://streams.radiobob.de/bob-singersong/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - Ironworkout,audio/mpeg
+#EXTINF:-1,Radio Bob - Ironworkout
 http://streams.radiobob.de/bob-ironworkout/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - Grung,audio/mpeg
+#EXTINF:-1,Radio Bob - Grung
 http://streams.radiobob.de/bob-grunge/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - Punk,audio/mpeg
+#EXTINF:-1,Radio Bob - Punk
 http://streams.radiobob.de/bob-punk/mp3-192/mediaplayer
-#EXTINF:-1,Radio Bob - Blues,audio/mpeg
+#EXTINF:-1,Radio Bob - Blues
 http://streams.radiobob.de/blues/mp3-192/mediaplayer/
-#EXTINF:-1,Radio Bob - Country,audio/mpeg
+#EXTINF:-1,Radio Bob - Country
 http://streams.radiobob.de/country/mp3-192/mediaplayer/
-#EXTINF:-1,Radio Bob - Queen stream,audio/mpeg
+#EXTINF:-1,Radio Bob - Queen stream
 http://streams.radiobob.de/bob-queen/mp3-192/mediaplayer/
-#EXTINF:-1,Radio Bob - Kuschelrock,audio/mpeg
+#EXTINF:-1,Radio Bob - Kuschelrock
 http://streams.radiobob.de/bob-kuschelrock/mp3-192/mediaplayer
-#EXTINF:-1,RSH,audio/mpeg
+#EXTINF:-1,RSH
 http://streams.rsh.de/rsh-live/mp3-192/mediaplayer
-#EXTINF:-1,RSH - Sylt,audio/mpeg
+#EXTINF:-1,RSH - Sylt
 http://streams.rsh.de/rsh-sylt/mp3-192/mediaplayer
-#EXTINF:-1,RSH - Top 40,audio/mpeg
+#EXTINF:-1,RSH - Top 40
 http://streams.rsh.de/rsh-nordparade/mp3-192/mediaplayer
-#EXTINF:-1,RSH - Mittmann-Mix,audio/mpeg
+#EXTINF:-1,RSH - Mittmann-Mix
 http://streams.rsh.de/rsh-mittmannmix/mp3-192/mediaplayer
-#EXTINF:-1,RSH - 80er,audio/mpeg
+#EXTINF:-1,RSH - 80er
 http://streams.rsh.de/rsh-80er/mp3-192/mediaplayer
-#EXTINF:-1,RSH - Gold,audio/mpeg
+#EXTINF:-1,RSH - Gold
 http://streams.rsh.de/gold/mp3-192/mediaplayer
-#EXTINF:-1,RSH - Relax,audio/mpeg
+#EXTINF:-1,RSH - Relax
 http://streams.rsh.de/relax/mp3-192/mediaplayer
-#EXTINF:-1,RSH - Fresh,audio/mpeg
+#EXTINF:-1,RSH - Fresh
 http://streams.rsh.de/fresh/mp3-192/mediaplayer
-#EXTINF:-1,RSH - 90er,audio/mpeg
+#EXTINF:-1,RSH - 90er
 http://streams.rsh.de/90er/mp3-192/mediaplayer
-#EXTINF:-1,RSH - Kids,audio/mpeg
+#EXTINF:-1,RSH - Kids
 http://streams.rsh.de/kids/mp3-192/mediaplayer
-#EXTINF:-1,RSH - Dance,audio/mpeg
+#EXTINF:-1,RSH - Dance
 http://streams.rsh.de/dance/mp3-192/mediaplayer
-#EXTINF:-1,RSH - Deutsch,audio/mpeg
+#EXTINF:-1,RSH - Deutsch
 http://streams.rsh.de/deutsch/mp3-192/mediaplayer
-#EXTINF:-1,Smart Radio,audio/mpeg
+#EXTINF:-1,Smart Radio
 http://glueckserver.de:8000/smartradio.mp3
-#EXTINF:-1,ABC Relax,audio/mpeg
+#EXTINF:-1,ABC Relax
 http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1,Best Smooth Jazz Radio,audio/mpeg
+#EXTINF:-1,Best Smooth Jazz Radio
 http://64.95.243.43:8002/stream
-#EXTINF:-1,Smooth Choice,audio/mpeg
-http://s1.viastreaming.net:8000/;
-#EXTINF:-1,0 N Smooth Jazz,audio/mpeg
+#EXTINF:-1,0 N Smooth Jazz
 http://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
-#EXTINF:-1,104.6 RTL Smooth,audio/mpeg
+#EXTINF:-1,104.6 RTL Smooth
 http://rtlberlin.streamabc.net/rtlb-rtlbtn9ofjxpzt8lfi-mp3-192-6465928?sABC=5r267n57%230%23o000r827s931po57p4q48q3377r73615%23&amsparams=playerid:;skey:1579579991
+#EXTINF:-1,101 Smooth Jazz
+http://jking.cdnstream1.com/b22139_128mp3
+#EXTINF:-1,Classix Vinyl HD
+https://icecast.walmradio.com:8443/classic
+#EXTINF:-1,Petpo FM
+http://retroserver.streamr.ru:8043/retro256.mp3
