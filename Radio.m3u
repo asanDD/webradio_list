@@ -3,6 +3,8 @@
 https://scdn.nrjaudio.fm/adwz1/fr/30639/mp3_128.mp3
 #EXTINF:-1,Nostalgie Extra - Relax
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFRELAX.mp3
+#EXTINF:-1,Smooth Jazz 247
+https://jking.cdnstream1.com/b75154_128mp3
 #EXTINF:-1,NDR 1 - Welle Nord
 https://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_fl.m3u
 #EXTINF:-1,NDR 2
@@ -15,8 +17,6 @@ https://streams.norawebstreams.de/nora-oldies/mp3-192/streams.norawebstreams.de/
 http://countrymusic24.powerstream.de:9000/;
 #EXTINF:-1,Countrykanalen Sweden
 http://178.33.135.245:3326/;
-#EXTINF:-1,Country 108
-https://www.country108.com/listen.m3u
 #EXTINF:-1,Jazz Radio - Blues
 https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
 #EXTINF:-1,Radio Caprice - Piano Blues und Boogie-Woogie
@@ -169,3 +169,11 @@ https://www.ndr.de/resources/metadaten/audio/m3u/n-joy.m3u
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFROCKS.mp3
 #EXTINF:-1,Petpo FM
 https://hls-01-retro.emgsound.ru/12/112/playlist.m3u8
+#EXTINF:-1,BR Klassik
+https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
+
+
+
+
+
+
